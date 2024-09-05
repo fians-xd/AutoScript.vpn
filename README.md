@@ -133,11 +133,11 @@ wget https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/install.sh
 ```
 
 <h2 align="center"> Butuh Bantuan Silahkan DM </h2>
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://wa.me/6287749044636" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
   </a>
-  <a href="https://t.me/yansxdi" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30" style="vertical-align: middle;"/>
+  <a href="https://t.me/yansxdi" target="_blank" style="margin-left: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30"/>
   </a>
 </div>
