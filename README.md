@@ -132,4 +132,4 @@ sudo apt install gcc make build-essential -y && wget https://github.com/neurobin
 wget https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/install.sh && chmod +x install.sh && ./install.sh && rm -rf install.sh
 ```
 
-<p align="center"> Butuh Bantuan Silahkan DM </p>
+<h2 align="center"> Butuh Bantuan Silahkan DM </h2>
