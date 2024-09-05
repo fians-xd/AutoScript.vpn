@@ -138,6 +138,6 @@ wget https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/install.sh
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
   </a>
   <a href="https://t.me/yansxdi" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30"/>
   </a>
 </div>
