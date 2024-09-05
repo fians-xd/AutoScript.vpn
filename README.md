@@ -135,9 +135,9 @@ wget https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/install.sh
 <h2 align="center"> Butuh Bantuan Silahkan DM </h2>
 <div align="center">
   <a href="https://wa.me/6287749044636" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/4494/4494494.png" alt="WhatsApp" width="45" height="45" style="vertical-align: middle;"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/4494/4494494.png" alt="WhatsApp" width="40" height="40" style="vertical-align: middle;"/>
   </a>
   <a href="https://t.me/yansxdi" target="_blank" style="margin-left: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="35" height="35" style="vertical-align: middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40" style="vertical-align: middle;"/>
   </a>
 </div>
