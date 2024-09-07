@@ -129,7 +129,7 @@ sudo apt install gcc make build-essential -y && wget https://github.com/neurobin
 ```
 [ 4 ]  Install-Sc
 ```
-wget https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/install.sh && chmod +x install.sh && ./install.sh
+wget https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/instal.sh && chmod +x instal.sh && ./instal.sh
 ```
 
 <h2 align="center"> Butuh Bantuan Silahkan DM </h2>
