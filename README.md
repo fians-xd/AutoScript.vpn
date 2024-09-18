@@ -125,7 +125,7 @@ apt update && apt upgrade -y && reboot
 ```
 [ 3 ]  Install Dependensi wajib
 ```
-sudo apt install gcc make build-essential zip unzip wget curl screen -y && wget https://github.com/neurobin/shc/archive/refs/tags/4.0.3.zip && unzip 4.0.3.zip && cd shc-4.0.3 && sudo chmod +x * && sudo ./configure && sudo make && sudo make install && cd && rm 4.0.3.zip && rm -rf shc-4.0.3 && reboot
+sudo apt install gcc sudo make build-essential zip unzip wget curl screen -y && wget https://github.com/neurobin/shc/archive/refs/tags/4.0.3.zip && unzip 4.0.3.zip && cd shc-4.0.3 && sudo chmod +x * && sudo ./configure && sudo make && sudo make install && cd && rm 4.0.3.zip && rm -rf shc-4.0.3 && reboot
 ```
 [ 4 ]  Install-Sc
 ```
