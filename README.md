@@ -1,6 +1,3 @@
-<h2 align="center"> More About This Vps Script </h2>
-
-</p> 
 <h2 align="center"> Supported Linux Distribution</h2>
 <p align="center">
     <img src="/banner/debub.png" width="500" height="300">
