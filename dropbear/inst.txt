@@ -1,0 +1,2 @@
+wget -O dropbear-debi "https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/dropbear/m-vmess.sh"
+wget -O dropbear-ubuntu "https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/dropbear/m-vmess.sh"
