@@ -1,2 +1,2 @@
-wget -O dropbear-debi "https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/dropbear/dropbear_2018.76-debian.deb"
-wget -O dropbear-ubuntu "https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/dropbear/dropbear_2019.78-ubuntu.deb"
+wget "https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/dropbear/dropbear_2018.76-debian.deb"
+wget "https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/dropbear/dropbear_2019.78-ubuntu.deb"
