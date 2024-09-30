@@ -125,7 +125,7 @@ apt update && apt upgrade -y && apt install sudo -y && reboot
 ```
 [ 3 ]  Install Dependensi (wajib)
 ```
-sudo apt install gcc make build-essential zip unzip wget curl screen libz-dev g++ libreadline-dev libreadline-dev zlib1g-dev libssl-dev libssl1.0-dev dos2unix cron vnstat mc jq bzip2 gzip vnstat coreutils rsyslog iftop git apt-transport-https build-essential earlyoom htop iptables jq python ruby cmake coreutils rsyslog net-tools nano sed gnupg gnupg1 bc jq dirmngr libxml-parser-perl lsof libsqlite3-dev -y && wget https://github.com/neurobin/shc/archive/refs/tags/4.0.3.zip && unzip 4.0.3.zip && cd shc-4.0.3 && sudo chmod +x * && sudo ./configure && sudo make && sudo make install && cd && rm 4.0.3.zip && rm -rf shc-4.0.3
+sudo apt install gcc make build-essential zip unzip wget curl screen libz-dev g++ libreadline-dev libreadline-dev zlib1g-dev libssl-dev dos2unix cron vnstat mc jq bzip2 gzip vnstat coreutils rsyslog iftop git apt-transport-https build-essential earlyoom htop iptables jq python ruby cmake coreutils rsyslog net-tools nano sed gnupg gnupg1 bc jq dirmngr libxml-parser-perl lsof libsqlite3-dev -y && wget https://github.com/neurobin/shc/archive/refs/tags/4.0.3.zip && unzip 4.0.3.zip && cd shc-4.0.3 && sudo chmod +x * && sudo ./configure && sudo make && sudo make install && cd && rm 4.0.3.zip && rm -rf shc-4.0.3
 ```
 [ 4 ]  Install-Sc (pasti wajib)
 ```
