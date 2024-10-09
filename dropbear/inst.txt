@@ -1,4 +1,4 @@
-  sudo apt-get install build-essential zlib1g-dev libssl-dev
+sudo apt-get install build-essential zlib1g-dev libssl-dev
 
 
 wget "https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/dropbear/dropbear-2018.76.debian.tar.bz2"
