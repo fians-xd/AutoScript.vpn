@@ -109,7 +109,7 @@
 
 # PREVIEW
 <p float="left">
-  <img src="/preview/pekok.jpg" width="32%" />
+  <img src="/preview/pekokepol.jpg" width="32%" />
   <img src="/preview/terk.jpg" width="32%" />
   <img src="/preview/njiai.jpg" width="32%" />
 </p>
