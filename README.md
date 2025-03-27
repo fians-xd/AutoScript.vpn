@@ -117,7 +117,7 @@
 # CARA INSTALLASI
 [ 1 ]  Ganti Repo OS (opsional)
 ```
-rm /etc/apt/sources.list && nano /etc/apt/sources.list
+#rm /etc/apt/sources.list && nano /etc/apt/sources.list
 ```
 [ 2 ]  Update&Upgrade OS (wajib)
 ```
