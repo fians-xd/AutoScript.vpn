@@ -134,7 +134,7 @@ wget https://raw.githubusercontent.com/fians-xd/AutoScript.vpn/master/install.sh
 
 <h2 align="center"> Butuh Bantuan Silahkan DM </h2>
 <div align="center">
-  <a href="https://wa.me/6287749044636" target="_blank">
+  <a href="https://wa.me/6282181341401" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/4494/4494494.png" alt="WhatsApp" width="35" height="35" style="vertical-align: middle;"/>
   </a>
   <a href="https://t.me/yansxdi" target="_blank" style="margin-left: 10px;">
