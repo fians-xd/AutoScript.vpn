@@ -49,7 +49,7 @@
     <td></td>
     <td>Trojan WS none TLS</td>
     <td>:</td>
-    <td>80</td>
+    <td>80, 8880</td>
   </tr>
   <tr>
     <td>Dropbear</td>
