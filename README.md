@@ -27,11 +27,11 @@
   <tr>
     <td>SSH Websocket</td>
     <td>:</td>
-    <td>80</td>
+    <td>80, 8880</td>
     <td></td>
     <td>Vmess WS none TLS</td>
     <td>:</td>
-    <td>80</td>
+    <td>80, 8880</td>
   </tr>
   <tr>
     <td>SSH SSL Websocket</td>
@@ -40,7 +40,7 @@
     <td></td>
     <td>Vless WS none TLS</td>
     <td>:</td>
-    <td>80</td>
+    <td>80, 8880</td>
   </tr>
   <tr>
     <td>Stunnel4</td>
@@ -58,7 +58,7 @@
     <td></td>
     <td>Shadowsocks WS none TLS</td>
     <td>:</td>
-    <td>80</td>
+    <td>80, 8880</td>
   </tr>
   <tr>
     <td>Badvpn</td>
